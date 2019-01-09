@@ -5,4 +5,9 @@ test meteors landed on earth detected by NASA
 
 This project requires Python 3 and the requests package.
 
-`python3 meteor.py`
+First install pipenv. Then:
+
+```
+pipenv install
+pipenv run "python meteor.py"
+```
