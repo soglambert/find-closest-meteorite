@@ -9,5 +9,5 @@ First install pipenv. Then:
 
 ```
 pipenv install
-pipenv run "python meteor.py"
+pipenv run "python meteors/meteor.py"
 ```
